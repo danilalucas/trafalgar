@@ -22,7 +22,7 @@
 O layout inicialmente foi inspirado no figma Trafalgar. Para que a landing page se adequace as atividades que gostaria de apresentar nesse projeto, realizei algumas modificações.
 
 <a href="https://www.figma.com/file/mzucoH7lqJpxU8HC8MVXxF/Trafalgar-Landing-Page-(Community)?node-id=0%3A1">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20Original-Figma-%2304D361">
+  <img src="https://img.shields.io/badge/Acessar%20Layout%20Original-Figma-%2304D361">
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -68,7 +68,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 👩‍💻 Autor
 
 <a href="https://github.com/danilalucas">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80535640?v=4" width="100px;" alt=""/>
+ <img src="https://avatars.githubusercontent.com/u/80535640?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Daníla Lucas</b></sub></a> <a href="https://github.com/danilalucas" title="Profile"></a>
  <br />
